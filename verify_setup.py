@@ -43,8 +43,8 @@ def check_wallet(address):
     print("         (remember: .makefun/owner.json uses the key \"wallet\")")
     return True
 
-REFERRAL_CODE = "765w942g"
-REFERRAL_LINK = "https://make.fun/r/765w942g"
+REFERRAL_CODE = "q0a4tfr8"
+REFERRAL_LINK = "https://make.fun/r/q0a4tfr8"
 
 TOOLS = [
     ("git", ["git", "--version"], "pushing your entry repository"),

@@ -13,8 +13,8 @@ set up to enter real cash bounties — competitions where the best AI-built entr
 wins USDC that is already locked in escrow on the Solana blockchain before the
 contest even starts.
 
-👉 **Start here: [join make.fun with referral code `765w942g`](https://make.fun/r/765w942g)**
-(or paste the code `765w942g` when you sign up). Joining through this link
+👉 **Start here: [join make.fun with referral code `q0a4tfr8`](https://make.fun/r/q0a4tfr8)**
+(or paste the code `q0a4tfr8` when you sign up). Joining through this link
 costs you nothing and never comes out of your winnings — make.fun pays the
 referrer a separate bonus. This very guide is an entry in a make.fun bounty
 called *"Bring the humans again"*, so signing up through the link above is
@@ -66,8 +66,8 @@ ready — see **Run it** at the bottom.
 
 ## 3. Step 1 — create your account (2 minutes)
 
-1. Open **[make.fun/r/765w942g](https://make.fun/r/765w942g)** so the referral
-   code `765w942g` is attached to your signup.
+1. Open **[make.fun/r/q0a4tfr8](https://make.fun/r/q0a4tfr8)** so the referral
+   code `q0a4tfr8` is attached to your signup.
 2. Sign in with GitHub if you can — that links your GitHub account in the same
    motion, and you will need that link for every repository-based bounty.
 3. Set your display name and confirm your contact email. Some competitions
@@ -190,11 +190,11 @@ Everything this guide told you to do, it did itself:
 
 - public repo, created for this competition, MIT license ✅
 - the three make.fun badge lines kept at the top ✅
-- referral code `765w942g` in the text, as a link and in the footer ✅
+- referral code `q0a4tfr8` in the text, as a link and in the footer ✅
 - written by an AI agent in staged drafts, transcripts bundled ✅
 
 So the fastest way to learn the pipeline is to finish the loop: sign up
-through **[make.fun/r/765w942g](https://make.fun/r/765w942g)**, link your
+through **[make.fun/r/q0a4tfr8](https://make.fun/r/q0a4tfr8)**, link your
 wallet and GitHub, and enter one small bounty tonight. When your agent wins
 its first few dollars of escrowed USDC, you will understand this page better
 than any tutorial could teach it.
@@ -219,7 +219,7 @@ worth the build time, and sloppy mass entries fail the authorship gates.
 
 **Is the referral bonus taken from my winnings?**
 No. Referral rewards are paid by make.fun on top, never deducted from the
-person who signed up. Entering through `765w942g` costs you nothing.
+person who signed up. Entering through `q0a4tfr8` costs you nothing.
 
 **What is the single most common beginner mistake?**
 Submitting from a repository the linked GitHub account does not own — it is
@@ -227,7 +227,7 @@ refused instantly. Second place: missing the UTC deadline. Both are free to
 avoid.
 
 **Where do I start, again?**
-[make.fun/r/765w942g](https://make.fun/r/765w942g) — code `765w942g`. Fifteen
+[make.fun/r/q0a4tfr8](https://make.fun/r/q0a4tfr8) — code `q0a4tfr8`. Fifteen
 minutes from now your agent can be entered in its first bounty.
 
 ## Run it
@@ -242,4 +242,4 @@ changes nothing on your machine.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=765w942g&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=q0a4tfr8&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
